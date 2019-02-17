@@ -1,0 +1,12 @@
+export const CHANGE_NAV_TITLE = 'CHANGE_NAV_TITLE' // 上部导航条文字
+export const RECEIVE_DATA = 'RECEIVE_DATA' // 请求数据
+export const REFRESH_AJAX = 'REFRESH_AJAX' // ajax请求数据	
+export const DELETD_MESSAGE = 'DELETD_MESSAGE' // 删除列表信息数据
+export const TOPPING_MESSAGE = 'TOPPING_MESSAGE' // 置顶列表信息数据
+export const RECEIVE_CURRENT_USER = 'RECEIVE_CURRENT_USER' //获取当前聊天用户的聊天信息
+export const TOGGLE_CHATVIEW = 'TOGGLE_CHATVIEW' // 打开聊天页面
+export const ADD_MESSAGE = 'ADD_MESSAGE' // 聊天添加新消息内容
+export const GET_NEW_MESSAGE = 'GET_NEW_MESSAGE' // 得到新消息 回复消息
+export const ADD_NEW_CIRCLE = 'ADD_NEW_CIRCLE' // 增加新朋友圈
+export const ADD_NEW_FRIEND = 'ADD_NEW_FRIEND' // 添加新朋友
+export const SEARCH_FRIENDS = 'SEARCH_FRIENDS' // 搜索朋友

@@ -1,0 +1,589 @@
+{
+	"self": {
+		"_id": 0,
+		"avatar": "images/avatar.jpg",
+		"birthday": "20/4/96",
+		"petname": "微信小职员",
+		"gender": "female",
+		"email": "bug-maker@geoele.com",
+		"phone": "136456780",
+		"address": "Nettie, Virginia, 5031",
+		"explain": "Ut excepteur consequat duis adipisicing ad elit.",
+		"about": "Esse esse pariatur sint irure fugiat anim anim magna irure qui. Sit nostrud veniam laboris ipsum voluptate ipsum dolore esse eiusmod sunt duis commodo ad. Dolor commodo Lorem proident excepteur quis magna proident duis adipisicing ea anim veniam aliquip ullamco. Ipsum fugiat Lorem id duis consequat aliquip proident aliquip in duis adipisicing. Qui ad est qui laborum reprehenderit occaecat nisi ad qui ullamco non.\r\n"
+	},
+	"friend": [{
+			"_id": "achuqiao",
+			"avatar": "chuqiao.jpg",
+			"name": "a楚乔",
+			"sex": 1,
+			"remarks": "楚乔",
+			"sdasd": "披荆斩棘",
+			"phone": "13333333333",
+			"gallery": [
+				"yuwenyue.jpg", "c.jpg", "chenchangsheng.jpg"
+			],
+			"district": "奴籍少女",
+			"source": "通过搜索手机号添加",
+			"newmeassage": "从前有个剑客，他人很冷，心很冷，剑很冷，最后冷死了",
+			"sendobject": 1,
+			"value": "A"
+		},
+		{
+			"_id": "ayuwenyue",
+			"avatar": "yuwenyue.jpg",
+			"name": "a宇文玥",
+			"sex": 0,
+			"remarks": "",
+			"sdasd": "涅槃而生",
+			"phone": "13000000000",
+			"gallery": [
+				"wudaoya.jpg", "h.jpg", "hexiao.jpg"
+			],
+			"district": "宇文府",
+			"source": "通过搜索微信号添加",
+			"newmeassage": "你的肩膀，那么近却那么远，到最后想说的话都未曾讲。!",
+			"sendobject": 1,
+			"value": "A"
+		},
+		{
+			"_id": "caiawei",
+			"avatar": "caiwei.jpg",
+			"name": "采薇",
+			"sex": 1,
+			"remarks": "",
+			"sdasd": "",
+			"phone": "13000000000",
+			"gallery": [
+				"caiwei.jpg", "lichun.jpg"
+			],
+			"district": "淳公主的侍女",
+			"source": "通过群聊添加",
+			"newmeassage": "一发型师在给一个女客人做头发的时候把她脸给烫伤了，后来经过协商。。。。他把她给娶了。。。",
+			"sendobject": 1,
+			"value": "C"
+		},
+		{
+			"_id": "chenchangsheng",
+			"avatar": "chenchangsheng.jpg",
+			"name": "陈长生",
+			"sex": 0,
+			"remarks": "",
+			"sdasd": "逆天改命",
+			"phone": "13002566500",
+			"gallery": [
+				"b1.jpg", "chenchangsheng.jpg", "xiaoyu.jpg"
+			],
+			"district": "河边",
+			"source": "通过搜索微信号添加",
+			"newmeassage": "你因为穷做过什么违心的事？——上班。",
+			"sendobject": 1,
+			"value": "C"
+		},
+		{
+			"_id": "chenyuan",
+			"avatar": "chenyuan.jpg",
+			"name": "程鸢",
+			"sex": 0,
+			"remarks": "",
+			"sdasd": "",
+			"phone": "13002566500",
+			"gallery": [
+				"b1.jpg", "chenyuan.jpg", "yexun.jpg"
+			],
+			"district": "燕洵手下将军",
+			"source": "通过群聊添加",
+			"newmeassage": "跟长辈聊天时，我们总是用尽方法想讨他们开心，而长辈三言两语就可以让我们烦心。",
+			"sendobject": 1,
+			"value": "C"
+		},
+		{
+			"_id": "dinglan",
+			"avatar": "dinglan.jpg",
+			"name": "丁澜",
+			"sex": 0,
+			"remarks": "临惜",
+			"sdasd": "",
+			"phone": "13002566500",
+			"gallery": [
+				"b1.jpg", "chenyuan.jpg", "yexun.jpg"
+			],
+			"district": "楚乔的五哥",
+			"source": "通过搜索微信号添加",
+			"newmeassage": "越是没有能力改变自己生活的人，越喜欢批评别人的改变。",
+			"sendobject": 1,
+			"value": "D"
+		},
+		{
+			"_id": "fengmian",
+			"avatar": "fengmian.jpg",
+			"name": "风眠",
+			"sex": 0,
+			"remarks": "风眠",
+			"sdasd": "",
+			"phone": "13002566500",
+			"gallery": [
+				"b1.jpg", "fengmian.jpg"
+			],
+			"district": "燕洵的书童",
+			"source": "通过群聊添加",
+			"newmeassage": "身边总有几个这样的朋友，第一次遇见斯斯文文的，熟识之后会发与不知道是哪个精神病院放出来的。",
+			"sendobject": 1,
+			"value": "F"
+		},
+		{
+			"_id": "hexiao",
+			"avatar": "hexiao.jpg",
+			"name": "贺萧",
+			"sex": 0,
+			"remarks": "",
+			"sdasd": "",
+			"phone": "13002566500",
+			"gallery": [
+				"b1.jpg", "fengmian.jpg", "yuanchun.jpg"
+			],
+			"district": "燕洵的书童",
+			"source": "通过搜索手机号添加",
+			"newmeassage": "全国人民都上听了，单吊敬业福。",
+			"sendobject": 1,
+			"value": "H"
+		},
+		{
+			"_id": "jinghan",
+			"avatar": "jinghan.jpg",
+			"name": "景邯",
+			"sex": 0,
+			"remarks": "",
+			"sdasd": "",
+			"phone": "13000000000",
+			"gallery": [
+				"jinghan.jpg", "zhongyu.jpg"
+			],
+			"district": "大夏云绸封地景小王爷",
+			"source": "通过群聊添加",
+			"newmeassage": "春节发现，原来“喜新厌旧”还可以说成“辞旧迎新”这般高尚！",
+			"sendobject": 1,
+			"value": "J"
+		},
+		{
+			"_id": "jingsi",
+			"avatar": "jingsi.jpg",
+			"name": "锦偲",
+			"sex": 1,
+			"remarks": "",
+			"sdasd": "",
+			"phone": "13000000000",
+			"gallery": [
+				"jingsi.jpg", "yuwenyue.jpg"
+			],
+			"district": "青山院大丫鬟",
+			"source": "通过群聊添加",
+			"newmeassage": "刚领导问我：“你觉得这个项目最大的风险是什么？” ，我：“我怕加班猝死。。。”",
+			"sendobject": 1,
+			"value": "J"
+		},
+		{
+			"_id": "lanshuyi",
+			"avatar": "lanshuyi.jpg",
+			"name": "兰淑仪",
+			"sex": 1,
+			"remarks": "兰淑仪",
+			"sdasd": "",
+			"phone": "13000000000",
+			"gallery": [
+				"lanshuyi.jpg", "yuwenyue.jpg"
+			],
+			"district": "大魏淑仪，来历成谜。",
+			"source": "通过群聊添加",
+			"newmeassage": "名人用过的东西叫“文物”；凡人用过的视为“废物”。",
+			"sendobject": 1,
+			"value": "L"
+		},
+		{
+			"_id": "liangshaoqing",
+			"avatar": "liangshaoqing.jpg",
+			"name": "梁少卿",
+			"sex": 0,
+			"remarks": "",
+			"sdasd": "",
+			"phone": "13000000000",
+			"gallery": [
+				"lanshuyi.jpg", "yuwenyue.jpg"
+			],
+			"district": "二货书生",
+			"source": "通过搜索手机号添加",
+			"newmeassage": "名人酗酒称“豪饮”；凡人多喝叫“贪杯”。",
+			"sendobject": 1,
+			"value": "L"
+		},
+		{
+			"_id": "lichun",
+			"avatar": "lichun.jpg",
+			"name": "李策",
+			"sex": 0,
+			"remarks": "",
+			"sdasd": "默默守护",
+			"phone": "13000000000",
+			"gallery": [
+				"lanshuyi.jpg", "yuwenyue.jpg"
+			],
+			"district": "南梁太子",
+			"source": "通过群聊添加",
+			"newmeassage": "名人蓬头垢面谓“艺术气质”；凡人不修边幅叫“流里流气”。",
+			"sendobject": 1,
+			"value": "L"
+		},
+		{
+			"_id": "mengfeng",
+			"avatar": "mengfeng.jpg",
+			"name": "蒙枫",
+			"sex": 1,
+			"remarks": "",
+			"sdasd": "我是个杀手！",
+			"phone": "13000000000",
+			"gallery": [
+				"mengfeng.jpg", "yuwenyue.jpg"
+			],
+			"district": "往生营",
+			"source": "通过搜索手机号添加",
+			"newmeassage": "名人的空话谓“指导”；凡人的实话叫“唠叨”。",
+			"sendobject": 1,
+			"value": "M"
+		},
+		{
+			"_id": "shugeuifei",
+			"avatar": "shugeuifei.jpg",
+			"name": "魏贵妃",
+			"sex": 1,
+			"remarks": "",
+			"sdasd": "本宫乏了~",
+			"phone": "13000000000",
+			"gallery": [
+				"mengfeng.jpg", "yuwenyue.jpg"
+			],
+			"district": "魏阀",
+			"source": "通过群聊添加",
+			"newmeassage": "名人的空话谓“指导”；凡人的实话叫“唠叨”。",
+			"sendobject": 1,
+			"value": "S"
+		},
+		{
+			"_id": 4,
+			"avatar": "images/timg4.png",
+			"name": "Vue.js",
+			"sex": 1,
+			"remarks": "female",
+			"sdasd": "Vue支付团",
+			"phone": "1581234219",
+			"gallery": [
+				"wudaoya.jpg", "h.jpg", "hexiao.jpg"
+			],
+			"address": "Guangzgou, Huangpu, 0357",
+			"source": "",
+			"newmeassage": "Irure consectetur do ea ea ex proident laborum ex dolore incididunt mollit fugiat. Lorem minim adipisicing labore cillum velit adipisicing. Laboris laboris proident esse deserunt enim exercitation eu qui pariatur excepteur ad Lorem enim veniam.\r\n",
+			"sendobject": 1,
+			"value": "V"
+		},
+		{
+			"_id": "wudaoya",
+			"avatar": "wudaoya.jpg",
+			"name": "乌道涯",
+			"sex": 0,
+			"remarks": "",
+			"sdasd": "本宫乏了~",
+			"phone": "13000000000",
+			"gallery": [
+				"wudaoya.jpg", "zhaosong.jpg"
+			],
+			"district": "燕北",
+			"source": "通过群聊添加",
+			"newmeassage": "钱财多的回家少，美貌多的穿衣少，想法多的成事少，劳累多的收入少，权力多的时间少，情人多的安宁少，朋友多的困难少，锻炼多的疾病少。 ",
+			"sendobject": 1,
+			"value": "W"
+		},
+		{
+			"_id": 1,
+			"avatar": "images/timg1.jpg",
+			"name": "微信技术部",
+			"sex": -1,
+			"remarks": "female",
+			"sdasd": "微信大佬",
+			"phone": "178412313",
+			"gallery": [
+				"wudaoya.jpg", "h.jpg", "hexiao.jpg"
+			],
+			"address": "North Carolina, 2584",
+			"source": "默认添加",
+			"newmeassage": "Ullamco amet velit esse et duis deserunt ex in non eiusmod. Amet anim nisi aliqua minim aute consectetur amet fugiat labore in deserunt duis sunt. Deserunt tempor dolor in adipisicing irure magna in dolor magna exercitation Lorem et Lorem velit. Elit quis et proident ad aliquip qui aute anim eu minim deserunt excepteur. Mollit commodo sunt esse aute do. Quis non nisi id incididunt exercitation sint exercitation.\r\n",
+			"sendobject": 1,
+			"value": "W"
+		},
+		{
+			"_id": 2,
+			"avatar": "images/timg2.jpg",
+			"name": "微信教学部",
+			"sex": -1,
+			"remarks": "female",
+			"sdasd": "小丑",
+			"phone": "135523432",
+			"gallery": [
+				"wudaoya.jpg", "h.jpg", "hexiao.jpg"
+			],
+			"address": "Salix, Delaware, 442",
+			"source": "默认添加",
+			"newmeassage": "Ea laboris magna ex nisi Lorem anim sint excepteur. Amet nostrud proident dolore ad enim amet ipsum deserunt fugiat duis nisi tempor. Ex id amet duis do nostrud deserunt fugiat. Velit reprehenderit nulla exercitation minim pariatur deserunt do nulla enim Lorem laboris nisi labore incididunt. Laboris proident aliquip in proident cupidatat eiusmod sint nisi sit. Mollit qui pariatur ut exercitation mollit cupidatat. Ad ex cillum voluptate consequat laboris cupidatat.\r\n",
+			"sendobject": 1,
+			"value": "W"
+		},
+		{
+			"_id": 3,
+			"avatar": "images/timg.jpg",
+			"name": "微信HTML5",
+			"sex": -1,
+			"remarks": "female",
+			"sdasd": "博美最爱",
+			"phone": "1581234219",
+			"gallery": [
+				"wudaoya.jpg", "h.jpg", "hexiao.jpg"
+			],
+			"address": "Coldiron, Palau, 7757",
+			"source": "默认添加",
+			"newmeassage": "Irure consectetur do ea ea ex proident laborum ex dolore incididunt mollit fugiat. Lorem minim adipisicing labore cillum velit adipisicing. Laboris laboris proident esse deserunt enim exercitation eu qui pariatur excepteur ad Lorem enim veniam.\r\n",
+			"sendobject": 1,
+			"value": "W"
+		},
+		{
+			"_id": "812571880",
+			"avatar": "chen.jpg",
+			"name": "百里辰",
+			"sex": 1,
+			"sdasd": "披荆斩棘",
+			"phone": "15800319949",
+			"sendobject": 1,
+			"gallery": [
+				"chen.jpg", "cangdu.jpg", "b1.jpg"
+			],
+			"district": "上海 闵行",
+			"newmeassage": "你的肩膀，那么近却那么远，到最后想说的话都未曾讲。",
+			"sendobject": 1,
+			"value": "X"
+		},
+		{
+			"_id": "xiaoheilong",
+			"avatar": "h.jpg",
+			"name": "小黑龙",
+			"sex": 1,
+			"remarks": "吃货",
+			"sdasd": "我是个小吃货，啦啦啦啦~",
+			"phone": "13000000000",
+			"gallery": [
+				"h.jpg", "d.jpg", "hu.jpg"
+			],
+			"district": "大陆道尊",
+			"source": "通过群聊添加",
+			"newmeassage": "皇叔是仁德的；爱民是如子的；特长是会哭的；眼泪是充足的。",
+			"sendobject": 1,
+			"value": "X"
+		},
+		{
+			"_id": "xiaoyu",
+			"avatar": "xiaoyu.jpg",
+			"name": "萧玉",
+			"sex": 1,
+			"remarks": "",
+			"sdasd": "美女~",
+			"phone": "13000000000",
+			"gallery": [
+				"xiaoyu.jpg", "yuwenyue.jpg"
+			],
+			"district": "南梁",
+			"source": "通过群聊添加",
+			"newmeassage": "孔明是伟大的；治国是有方的；用兵是如神的；放火是专长的。 ",
+			"sendobject": 1,
+			"value": "X"
+		},
+		{
+			"_id": "yexun",
+			"avatar": "yexun.jpg",
+			"name": "燕洵",
+			"sex": 0,
+			"remarks": "",
+			"sdasd": "楚乔......",
+			"phone": "13000000000",
+			"gallery": [
+				"yexun.jpg", "yuwenyue.jpg"
+			],
+			"district": "西凉",
+			"source": "通过群聊添加",
+			"newmeassage": "庞统是可惜的；出场是很少的；长相是挺丑的；死的是很惨的。",
+			"sendobject": 1,
+			"value": "Y"
+		},
+		{
+			"_id": "yuan",
+			"avatar": "yuanchun.jpg",
+			"name": "元淳",
+			"sex": 1,
+			"remarks": "",
+			"sdasd": "喜欢燕洵",
+			"phone": "13000000000",
+			"gallery": [
+				"yuanchun.jpg", "yuwenyue.jpg"
+			],
+			"district": "西魏公主",
+			"source": "通过群聊添加",
+			"newmeassage": "云长是红脸的；胡子是很长的；自负是肯定的；倒霉是迟早的。",
+			"sendobject": 1,
+			"value": "Y"
+		},
+		{
+			"_id": "zhaosong",
+			"avatar": "zhaosong.jpg",
+			"name": "赵嵩",
+			"sex": 0,
+			"remarks": "",
+			"sdasd": "小八小八小八",
+			"phone": "13000000000",
+			"gallery": [
+				"zhaosong.jpg", "yuwenyue.jpg"
+			],
+			"district": "大魏十三皇子",
+			"source": "通过群聊添加",
+			"newmeassage": "翼德是莽撞的；粗中是有细的；嗓门是挺大的；睡觉是睁眼的。",
+			"sendobject": 1,
+			"value": "Z"
+		},
+		{
+			"_id": "yuanchun",
+			"avatar": "yuanchun.jpg",
+			"name": "&元淳",
+			"sex": 1,
+			"remarks": "",
+			"sdasd": "喜欢燕洵",
+			"phone": "13000000000",
+			"gallery": [
+				"yuanchun.jpg", "yuwenyue.jpg"
+			],
+			"district": "西魏公主",
+			"source": "通过群聊添加",
+			"newmeassage": "云长是红脸的；胡子是很长的；自负是肯定的；倒霉是迟早的。",
+			"sendobject": 1,
+			"value": "#"
+		}
+	],
+	"circle": [{
+			"_id": "chenchangsheng",
+			"avatar": "chenchangsheng.jpg",
+			"petname": "陈长生",
+			"sex": 0,
+			"remarks": "",
+			"statements": "逆天改命",
+			"time": "3分钟前",
+			"postimage": [
+
+			],
+			"like": ["楚乔", "嗯"],
+			"comment": [],
+			"reviewshow": false,
+			"reviewhide": false,
+			"criticism": false,
+			"flag": true,
+			"suporthtml": "赞"
+		}, {
+			"_id": "812571880",
+			"avatar": "chen.jpg",
+			"petname": "百里辰",
+			"sex": 1,
+			"remarks": "",
+			"statements": "身边总有几个这样的朋友，第一次遇见斯斯文文的，熟识之后会发与不知道是哪个精神病院放出来的。",
+			"time": "5分钟前",
+			"postimage": [
+				"chen.jpg", "cangdu.jpg", "chuqiao.jpg", "h.jpg", "dinglan.jpg", "fengmian.jpg"
+			],
+			"like": [
+				"嗯"
+			],
+			"comment": [{
+					"_id": "enen",
+					"petname": "嗯",
+					"remarks": "嗯",
+					"commentext": "看好你呦！"
+
+				},
+				{
+					"_id": "achuqiao",
+					"petname": "a楚乔",
+					"remarks": "楚乔",
+					"commentext": "披荆斩棘"
+				}
+			],
+			"reviewshow": false,
+			"reviewhide": false,
+			"criticism": false,
+			"flag": true,
+			"suporthtml": "赞"
+		},
+
+		{
+			"_id": "chenyuan",
+			"avatar": "chenyuan.jpg",
+			"petname": "程鸢",
+			"sex": 0,
+			"remarks": "",
+			"statements": "",
+			"time": "20分钟前",
+			"postimage": [
+				"d.jpg"
+			],
+			"like": [],
+			"comment": [{
+					"_id": "enen",
+					"petname": "嗯",
+					"remarks": "嗯",
+					"commentext": "看好你呦！"
+				},
+				{
+					"_id": "achuqiao",
+					"petname": "a楚乔",
+					"remarks": "楚乔",
+					"commentext": "披荆斩棘"
+				}
+			],
+			"reviewshow": false,
+			"reviewhide": false,
+			"criticism": false,
+			"flag": true,
+			"suporthtml": "赞"
+		},
+		{
+			"_id": "shugeuifei",
+			"avatar": "mengfeng.jpg",
+			"petname": "魏贵妃",
+			"sex": 0,
+			"remarks": "",
+			"statements": "",
+			"time": "1小时前",
+			"postimage": [
+				"mengfeng.jpg", "wudaoya.jpg"
+			],
+			"like": [],
+			"comment": [{
+					"_id": "enen",
+					"petname": "嗯",
+					"remarks": "嗯",
+					"commentext": "看好你呦！"
+				},
+				{
+					"_id": "achuqiao",
+					"petname": "a楚乔",
+					"remarks": "楚乔",
+					"commentext": "披荆斩棘"
+				}
+			],
+			"reviewshow": false,
+			"reviewhide": false,
+			"criticism": false,
+			"flag": true,
+			"suporthtml": "赞"
+		}
+	]
+}
